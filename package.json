@@ -104,7 +104,7 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "node-x25x": "https://github.com/wkibbler/node-x25x.git",
+    "node-x25x": "https://github.com/HTHcoin/node-x25x.git",
     "bloom-filter": "^0.2.0",
     "bn.js": "=4.11.8",
     "bs58": "=4.0.1",
