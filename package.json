@@ -111,7 +111,8 @@
     "inherits": "=2.0.1",
     "lodash": "^4.17.15",
     "unorm": "^1.4.1",
-    "bindings-loader": "^0.1.0"
+    "bindings-loader": "^0.1.0",
+    "node-x25x": "git+https://github.com/HTHcoin/node-x25x.git"
   },
   "devDependencies": {
     "brfs": "^2.0.1",
